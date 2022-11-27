@@ -1,0 +1,2 @@
+# Bibliotecas. ¿Qué tipo es el más utilizado actualmente? ¿Por qué?
+- Las bibliotecas dinámicas son las mas utilizadas. A diferencia de las bibliotecas estáticas, las bibliotecas dinámicas utilizan recursos independientes al ejecutable que las llama. Así, durante la ejecución de nuestro programa, en el momento en el que este necesite recursos de las bibliotecas, este los buscará en ellas. En el supuesto de que se borrase la biblioteca, el programa daría un error al no poder encontrarla.Los ejecutables de las bibliotecas dinámicas consumen menos recursos que las estáticas.
